@@ -152,17 +152,6 @@ Each run has a unique timestamped folder (`run_<id>`) to avoid checkpoint confli
 ---
 
 ## 🧠 Validation Options
-
-### 🧠 How to use locally
-
-After cloning or pulling the repo, you can quickly enable your validation environment:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
 ### 🐼 **Using Pandas**
 ```python
 import pandas as pd
