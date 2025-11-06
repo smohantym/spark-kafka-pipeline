@@ -1,0 +1,9 @@
+# Core Python dependencies for local testing & validation
+pyspark==3.5.1
+pandas==2.2.3
+pyarrow==17.0.0
+fastparquet==2024.5.0
+kafka-python==2.0.2
+pandera==0.20.3
+great-expectations==0.18.15
+duckdb==1.1.2
