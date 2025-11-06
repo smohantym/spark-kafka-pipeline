@@ -7,13 +7,8 @@ The pipeline demonstrates:
 - Stream processing and aggregation using Spark.
 - Data persistence to Parquet.
 - Easy validation using Pandas or PySpark.
-
----
-
-## 🚀 Architecture Overview
-
 ```
-
+## 🚀 Architecture Overview
 ```
         ┌────────────┐
         │  Producer  │──► sends JSON messages
