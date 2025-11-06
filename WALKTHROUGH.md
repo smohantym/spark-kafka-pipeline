@@ -1,4 +1,4 @@
-# How your Spark ↔ Kafka pipeline works (end-to-end)
+# Spark ↔ Kafka pipeline works (end-to-end)
 
 Below is a clear, complete walkthrough of **what runs first**, **how containers talk**, **what each component does**, and **how the Spark job processes and writes data**. I’ll also include **exact run/stop steps** and **where to look for outputs**.
 
