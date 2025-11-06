@@ -330,7 +330,7 @@ df.coalesce(1).write.mode("overwrite").option("header","true").csv("data/output/
 
 ---
 
-## 9) Common issues you already solved (and why your code prevents them)
+## 9) Common issues already solved (and why this code prevents them)
 
 * **Kafka topic doesn’t exist** → `kafka-init` creates it before anything else.
 * **Ivy cache permission errors** → use `/tmp/.ivy2` mapped to `./cache/ivy`.
