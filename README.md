@@ -164,11 +164,6 @@ pip install -r requirements.txt
 ```
 
 ### 🐼 **Using Pandas**
-
-```bash
-pip install pandas pyarrow
-```
-
 ```python
 import pandas as pd
 
