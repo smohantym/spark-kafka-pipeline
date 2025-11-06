@@ -31,13 +31,8 @@ The pipeline demonstrates:
               │
    ./data/output/parquet/run_<id>/
 ```
-
-````
-
----
-
 ## ⚙️ Components
-
+````
 | Service | Description |
 |----------|-------------|
 | **zookeeper** | Required by Kafka broker (coordination service). |
@@ -47,17 +42,15 @@ The pipeline demonstrates:
 | **spark-worker** | Spark worker executing tasks. |
 | **spark-streaming** | Spark Structured Streaming job that reads from Kafka, processes data, and writes Parquet. |
 | **producer** | Python script producing simulated JSON events to Kafka at a controlled rate. |
-
----
+````
 
 ## 🧰 Prerequisites
-
+````
 - Docker ≥ **28.5.1**
 - Docker Compose v2 (already included in Docker Desktop)
 - Mac M1/M2/M3 or Linux system
-
----
-
+````
+````
 ## 🏗️ Setup and Run
 
 ### 1️⃣ Clone this repository
