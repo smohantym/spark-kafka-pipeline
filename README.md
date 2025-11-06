@@ -50,7 +50,7 @@ The pipeline demonstrates:
 - Docker Compose v2 (already included in Docker Desktop)
 - Mac M1/M2/M3 or Linux system
 ````
-````
+
 ## 🏗️ Setup and Run
 
 ### 1️⃣ Clone this repository
