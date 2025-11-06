@@ -1,5 +1,5 @@
 # 🧩 Spark + Kafka Streaming Data Pipeline (Dockerized)
-```markdown
+
 A complete **end-to-end data engineering mini-project** built with **Apache Spark Structured Streaming** and **Apache Kafka**, all running locally inside Docker containers.
 
 The pipeline demonstrates:
@@ -7,7 +7,7 @@ The pipeline demonstrates:
 - Stream processing and aggregation using Spark.
 - Data persistence to Parquet.
 - Easy validation using Pandas or PySpark.
-```
+
 ## 🚀 Architecture Overview
 ```
         ┌────────────┐
