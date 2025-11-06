@@ -297,6 +297,16 @@ docker stop spark-streaming
 docker start -ai spark-streaming
 ```
 
+## 🧠 How to use locally
+
+After cloning or pulling the repo, you can quickly enable your validation environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 **Read Parquet (Pandas):**
 
 ```bash
