@@ -59,6 +59,16 @@ git clone https://github.com/your-username/spark-kafka-pipeline.git
 cd spark-kafka-pipeline
 ````
 
+### 🧠 How to use locally
+
+After cloning or pulling the repo, you can quickly enable your validation environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ### 2️⃣ Create required folders
 
 ```bash
