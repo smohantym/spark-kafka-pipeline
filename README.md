@@ -55,7 +55,7 @@ The pipeline demonstrates:
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/your-username/spark-kafka-pipeline.git
+git clone https://github.com/smohantym/spark-kafka-pipeline.git
 cd spark-kafka-pipeline
 ````
 
